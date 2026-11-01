@@ -1,0 +1,11 @@
+sentence-transformers
+chromadb
+langchain
+langchain-community
+langchain-text-splitters
+langchain-chroma
+pypdf
+groq
+python-dotenv
+mcp
+streamlit
