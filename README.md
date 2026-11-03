@@ -97,7 +97,6 @@ Instead of generating answers from its general knowledge, the application retrie
 | ChromaDB               | Vector database                 |
 | Groq                   | LLM inference                   |
 | GPT-OSS-20B            | Language model                  |
-| MCP                    | Tool integration                |
 | python-dotenv          | Environment variable management |
 
 ## ⚙️ How RAG Works in This Project
